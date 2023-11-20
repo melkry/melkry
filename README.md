@@ -1,5 +1,5 @@
--👋 Hi there! I'm Melissa, a frontend web developer passionate about crafting engaging and pixel-perfect user interfaces. 🚀
--💡 With a keen eye for design and a love for user experience, I specialize in creating responsive and intuitive websites. From concept to implementation, I enjoy the creative process of turning ideas into visually appealing and functional digital experiences.
+- 👋 Hi there! I'm Melissa, a frontend web developer passionate about crafting engaging and pixel-perfect user interfaces. 🚀
+- 💡 With a keen eye for design and a love for user experience, I specialize in creating responsive and intuitive websites. From concept to implementation, I enjoy the creative process of turning ideas into visually appealing and functional digital experiences.
 - 🌈 My tool of choice is the front-end trinity: HTML, CSS, and JavaScript. I'm well-versed in modern frameworks like React, and I'm always exploring new ways to make the web more dynamic and user-friendly.
 - 🚀 Continuous learning is my mantra, and I stay updated on the latest trends in front-end development. Whether it's optimizing performance, ensuring accessibility, or experimenting with cutting-edge technologies, I'm up for the challenge.
 - 🔗 Let's connect and collaborate! Feel free to explore my repositories, share your thoughts, or reach out for exciting project opportunities. Together, let's code a brighter and more interactive web! 🚀✨
